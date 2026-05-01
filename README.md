@@ -1,6 +1,9 @@
-<h1 align="center">Hi 👋, I'm Minhaz Chowdhury</h1>
-<h3 align="center">💻 Student | 🤖 Machine Learning Enthusiast | 🇧🇩 Bangladesh</h3>
+<p align="center">
+  <img src="[YOUR_IMAGE_URL](https://github.com/minhazchyz/minhazchyz.github.io/blob/main/WhatsApp%20Image%202026-05-02%20at%2012.16.57%20AM.jpeg?raw=true)" width="120" style="border-radius:50%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Minhaz Chowdhury</h1>
+<h3 align="center">💻 Student | 🤖 ML Enthusiast | 🇧🇩 Bangladesh</h3>
 ---
 
 ## 🚀 About Me
